@@ -1,0 +1,8 @@
+d:\我的文档\visual studio 2015\Projects\csharp\音乐播放器\bin\Debug\音乐播放器.exe.config
+d:\我的文档\visual studio 2015\Projects\csharp\音乐播放器\bin\Debug\音乐播放器.exe
+d:\我的文档\visual studio 2015\Projects\csharp\音乐播放器\bin\Debug\音乐播放器.pdb
+d:\我的文档\visual studio 2015\Projects\csharp\音乐播放器\obj\Debug\音乐播放器.Form1.resources
+d:\我的文档\visual studio 2015\Projects\csharp\音乐播放器\obj\Debug\音乐播放器.Properties.Resources.resources
+d:\我的文档\visual studio 2015\Projects\csharp\音乐播放器\obj\Debug\音乐播放器.csproj.GenerateResource.Cache
+d:\我的文档\visual studio 2015\Projects\csharp\音乐播放器\obj\Debug\音乐播放器.exe
+d:\我的文档\visual studio 2015\Projects\csharp\音乐播放器\obj\Debug\音乐播放器.pdb
